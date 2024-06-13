@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">constraint_layout</string>
+    <string name="DCA">DCA</string>
+    <string name="MARS">MARS</string>
+    <string name="Space_Stations">Space Stations</string>
+    <string name="Flights">Flights</string>
+    <string name="Rovers">Rovers</string>
+    <string name="One_Traveller">One Traveller</string>
+    <string name="compare_arrows">Compare arrows</string>
+    <string name="One_Way">One Way</string>
 </resources>
